@@ -8,4 +8,4 @@ une démo qui se passe niquel sa mère
 et on retest sa mère
 >>>>>>> 02b3e53f398d05b0042fa68d626d17770351f398
 
-on modifie depuis l’ordi
+on modifie depuis l’ordi mais c'est quand même bordel un peu
